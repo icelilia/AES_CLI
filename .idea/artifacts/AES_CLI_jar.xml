@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AES_CLI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AES_CLI_jar</output-path>
+    <root id="archive" name="AES_CLI.jar">
+      <element id="module-output" name="AES_CLI" />
+    </root>
+  </artifact>
+</component>
